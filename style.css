@@ -91,35 +91,6 @@ margin-top:0px;
 		float: right; width: 340px;
 		margin-left: 110px;margin-right:0px;
 	}
-	
-    
-    
-    .round_span3 {
-        background: #404040;
-        display: block;
-        line-height: 1px;
-        overflow: hidden;
-        height: 1px;
-        margin: 0 3px;
-    }
-    
-    .round_span2 {
-        background: #404040;
-        display: block;
-        line-height: 1px;
-        overflow: hidden;
-        height: 1px;
-        margin: 0 2px;
-    }
-    
-    .round_span1 {
-        background: #404040;
-        display: block;
-        line-height: 1px;
-        overflow: hidden;
-        height: 1px;
-        margin: 0 1px;
-    }
 
 	.container4 {
         display: inline-block;
