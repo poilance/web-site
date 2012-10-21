@@ -57,6 +57,7 @@ input {
 /* Header
 -----------------------------------------------------------------------------*/
 #header {
+width: 100%;
 margin-top:0px;	
 	height: 82px;
 	background: #b9090b;
